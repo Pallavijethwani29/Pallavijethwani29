@@ -1,6 +1,6 @@
+## Hello Geeks 👋! 
 ### I'm Pallavi Jethwani 👩‍💻- a Graduate student pusruing MS in Business Analytics from UTD. 
-
-
+<img src="https://user-images.githubusercontent.com/55358639/90433049-d6b01d80-e090-11ea-9e4d-f22d4ff8c984.jpg" alt="womenintech" width=300 height=300>
 
 
 
